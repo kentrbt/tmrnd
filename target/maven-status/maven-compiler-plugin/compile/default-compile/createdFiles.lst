@@ -1,0 +1,11 @@
+com/tmrnd/entities/TeamSkill.class
+com/tmrnd/ServletInitializer.class
+com/tmrnd/csvloader/CSVLoader.class
+com/tmrnd/repositories/AssignmentResultRepository.class
+com/tmrnd/repositories/TaskRepository.class
+com/tmrnd/entities/Team.class
+com/tmrnd/repositories/TeamSkillRepository.class
+com/tmrnd/entities/Task.class
+com/tmrnd/repositories/TeamRepository.class
+com/tmrnd/DemoApplication.class
+com/tmrnd/entities/AssignmentResult.class
